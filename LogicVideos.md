@@ -59,19 +59,19 @@ He has an interesting Set Theory series.
 
 https://www.youtube.com/channel/UCL_lVXCyzqBb2Xc8CrvPENg/playlists
 # formalmethods:
-Some videos on proof theory, logic, type theory, coq and more
+Some videos on proof theory, logic, type theory, coq and more.
 
 https://www.youtube.com/channel/UC5GDHIsHpMuyAKpB56IOZ8g/playlists
 # nesoacademy:
-A series on the theory of computation
+A series on the theory of computation.
 
 https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev
 
-Quite a few other EE/CS related topics on the main channel
+Quite a few other EE/CS related topics on the main channel.
 
 https://www.youtube.com/user/nesoacademy/playlists
 # Taylor Dupuy's Math Vlog:
-A series on model theory
+A series on model theory.
 
 https://www.youtube.com/watch?v=-JwQmwkrtoA&list=PLJmfLfPx1Oef_nObIEOUfZDeCnX46ok78
 
@@ -90,32 +90,32 @@ https://www.youtube.com/watch?v=dOqe-ATkmeA&list=PLun-LUE1uLNvWi-qV-tRHohfHR90Y_
 Some videos about set theory type theory and lambda calculus.
 
 https://www.youtube.com/user/rlindeque/videos
-# LegumPhilosophy
-A series on predicate logic
+# LegumPhilosophy:
+A series on predicate logic.
 
 https://www.youtube.com/watch?v=nUDghGri6TQ&list=PLEHmI0Qx0uPlVgI7xMmB_S1iuHOe9EX0f
 
-lots of philosophy and logic videos
+Lots of philosophy and logic videos.
 
 https://www.youtube.com/user/LegumPhilosophy/playlists
 # drjasoncampbell
-a series on predicate logic
+A series on predicate logic.
 
 https://www.youtube.com/watch?v=mLgp1pcMLDk&list=PL7B0D7E19C7AA85BD
 
-Various philosophy and logic videos
+Various philosophy and logic videos.
 
 https://www.youtube.com/user/drjasonjcampbell/playlists
 # David Agler:
-predicate logic 
+Predicate logic.
 
 https://www.youtube.com/watch?v=6EX21728AlE&list=PLqEJ_rxb3Xf36sHcC95ZJgyGlyiIz2o9u
 
-propositional logic
+Propositional logic.
 
 https://www.youtube.com/watch?v=5XCBQGg5ZB8&list=PLqEJ_rxb3Xf0dTy_-dSqINnAD5tbmpUx8
 # Mark Thorsby:
-Videos on philosophy and logic
+Videos on philosophy and logic.
 
 https://www.youtube.com/user/PhilosophicalTechne/playlists
 # PhilHelper
@@ -127,11 +127,11 @@ A series on logic and paradoxes through The University of Navarra I could not fi
 
 https://www.youtube.com/watch?v=kiY04nJhtm4&list=PLs2FFVcZ4wGIJO7vdxxfxXkkg0p8hga6Q
 # Dr. A.V. Ravishankar Sarma via nptelhrd
-A lengthy series on logic
+A lengthy series on logic.
 
 https://www.youtube.com/watch?v=gfYwQ7oxDok&list=PLbMVogVj5nJS1F-yeDwn16nsuYrpSYzaO&index=1
 
-A series for a discrete math course
+A series for a discrete math course.
 
 https://www.youtube.com/watch?v=xlUFkMKSB3Y&list=PL0862D1A947252D20
 # NativLang
@@ -147,39 +147,39 @@ Lots of math and CS stuff.
 
 https://www.youtube.com/user/MIT/videos
 
-Math for CS
+Math for CS.
 
 https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B
 
-Another series covering essentially the same thing  (I could not find a decent playlist of this one on youtube)
+Another series covering essentially the same thing.  (I could not find a decent playlist of this one on youtube)
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm
 # Elizabeth Stepp
-Some videos for an intro to proof class
+Some videos for an intro to proof class.
 
 https://www.youtube.com/watch?v=_y6itCZ1Afg&list=PL4SMNZiBV21RwR5JKFd0j3lSu2WavPU0p
 # Gate Lectures by Ravindrababu Ravula
-Boolean Algebra
+Boolean Algebra.
 
 https://www.youtube.com/watch?v=j4fDYX5VZF0&list=PLEbnTDJUr_Ica5kK6UypsWpf95Ut2sK3o
 # Simple Snippets
-More Boolean Algebra
+More Boolean Algebra.
 
 https://www.youtube.com/watch?v=NqPhPiSer30&list=PLIY8eNdw5tW-yJHsxApeilNjX2Dkll-Ox
 
-Fuzzy Logic
+Fuzzy Logic.
 
 https://www.youtube.com/watch?v=a2i-lHS-c_I&list=PLIY8eNdw5tW9ZqgI9nfXxr6r-FHnLS90k
 # Robot Brigade
-Digital Logic
+Digital Logic.
 
 https://www.youtube.com/watch?v=ve1S1x9fADE&list=PLyG2VxFPjWqDDbo1FKEvzMvj33fI22weJ
 # PhilosophyFreak
-Some basic logic and phil videos
+Some basic logic and phil videos.
 
 https://www.youtube.com/user/PhilosophyFreak/playlists
 # Kane B
-Videos on logic and philosophy
+Videos on logic and philosophy.
 
 https://www.youtube.com/user/kanebaker91/about
 
