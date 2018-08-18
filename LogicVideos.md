@@ -1,5 +1,5 @@
 # What is this: 
-A list of videos related to logic. There is no one theme besides being somewhat related to logic and appearing to be of decent quality. Each section heading is a channel name or author name. I have not watched them all as this is mainly to remind myself.
+A list of videos related to logic. There is no one theme besides being somewhat related to logic and appearing to be of decent quality. Each section heading is a channel name or author name. I have not watched them all.
 # Carneades.org:
 Lots of logic videos.
 
