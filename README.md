@@ -1,6 +1,6 @@
 # Logic-Video-Series-List
 # What This Is?
-A list of various video series on logic. I have not watched every single series here. Creating this list provides others with a resource for finding videos on this topic, improve the quality of the list, or create their own version of this list.
+A list of various video series on logic. I have not watched every single series here. Creating this list provides others with a resource for finding videos on this topic, improve the quality of this list, or create their own version of this list.
 # LogicVideos.html:
 Running make generates this html file currently.
 # LogicVideos.md:
