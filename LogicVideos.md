@@ -18,7 +18,7 @@ https://www.youtube.com/user/JimBobJenkins/videos
 Mainly math but some logic too.
 
 https://www.youtube.com/user/patrickJMT/featured
-# Gregg Restall:
+# Greg Restall:
 A philosophy professor with quite a few logic videos on vimeo
 
 https://vimeo.com/consequently
