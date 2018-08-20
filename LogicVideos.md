@@ -182,4 +182,53 @@ https://www.youtube.com/user/PhilosophyFreak/playlists
 Videos on logic and philosophy.
 
 https://www.youtube.com/user/kanebaker91/about
+# myweps2012:
+Quite a few logic videos, including some fairly interesting logic videos covering various topics. Notably he discusses tableaux proofs, Gentzen styled deduction proofs, Axiomatic proof and more. Many videos are not sorted into playlists yet but courses are titled by ordering as in LO1 is the first video LO2 is the next video and so on. The video upload dates are fairly linear which helps with sorting.
 
+https://www.youtube.com/user/myweps2012/feed
+
+https://www.youtube.com/user/myweps2012/videos?flow=grid&view=0&sort=dd
+
+# The Virtual Linguistics Campus:
+Has a series on semantics which discusses predicate logic briefly.
+
+https://www.youtube.com/watch?v=8QZWx_XAO1w&list=PLRIMXVU7SGRJF8gxD70oZPBoFAYxGs4QL
+
+https://www.youtube.com/channel/UCaMpov1PPVXGcKYgwHjXB3g
+
+# Adam Rosenfield:
+A philosophy professor from the University of North Carolina, his channel has a course on critical thinking which covers a lot of fundamental logical topics. His channel also has videos on other philosophical topics.
+
+https://www.youtube.com/watch?v=wVLGyOhQR64&list=PLSvsx8116eZiEj6UHvGoNZ8-YKmhatNCS
+
+https://www.youtube.com/channel/UCYSW6ZTG8orrna1zJdl5wTQ
+
+# Taylor Dupuy's Math Vlog:
+A math professor from the University of Vermont, he has a course playlist on topics like model theory, category theory, analysis and tons more.
+
+https://www.youtube.com/channel/UCHWnZ1NtJ4WvE5AHmNVXziw/featured
+
+https://www.youtube.com/watch?v=-JwQmwkrtoA&list=PLJmfLfPx1Oef_nObIEOUfZDeCnX46ok78
+
+# HIW - KU Leuven 
+The Institute of Philosophy at KU Leuven, has a collection of videos for an intor to logic course and others on philosophy.
+
+https://vimeo.com/hiw/about
+
+https://vimeo.com/album/3183369
+
+# Basic Concepts of Modal Logic 
+
+Through the Indian Institute of Technology Kanpur a bunch of logic videos from propositional logic onward to modal logic.
+
+https://www.youtube.com/channel/UCrfXtr4o3C67Tq0A2Fm9hHw
+
+https://www.youtube.com/watch?v=U2vRubmtMJ8&list=PLzf4HHlsQFwJKbF06oI2eXsFho-gpWrp2&index=1
+
+# Eric Pacuit:
+
+Some modal logic videos.
+
+https://www.youtube.com/user/Ericpacuit/featured
+
+https://www.youtube.com/watch?v=sW0SQA386p0&list=PLzYF5qTXNbZIsj5DdRjIWMry1TGkZHXSZ
