@@ -1,7 +1,6 @@
 ---
 title: "Logic Video List"
 shortdescription: A list of online videos related to logic.
-layout: fun
 ---
 
 ## What is this list? 
