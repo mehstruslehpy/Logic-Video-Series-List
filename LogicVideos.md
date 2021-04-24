@@ -280,3 +280,8 @@ Tons of mathematics videos including some discrete math.
 
 [youtube](https://www.youtube.com/channel/UC9rTsvTxJnx1DNrDA3Rqa6A/featured)
 
+## Antonio Montalban
+
+Classes on mathematical logic taught for upper division math students, by Antonio Montalban, from The University of California, Berkeley.
+
+[youtube](https://www.youtube.com/channel/UCIitj22cDioUWlkQYF6UXLw)
